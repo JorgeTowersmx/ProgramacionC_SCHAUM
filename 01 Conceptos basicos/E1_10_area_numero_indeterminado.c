@@ -1,6 +1,6 @@
 /* programa para calcular el área de un circulo */
 /* Compilado en Windows 10  y gcc-10.2.0 */
-/* Cap1 Conceptos Básicos , Pagina 12 
+/* Cap1 Conceptos Básicos , Pagina 16
 /* Programacion en C, SCHAUM Byron Gottfried */
 /* Programa para calcular áreas de varios círculos, usando un bucle for; no se especifica el numero de circulos */
 
