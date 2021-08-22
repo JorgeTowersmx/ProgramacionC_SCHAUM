@@ -4,7 +4,7 @@
 /* Programacion en C, SCHAUM Byron Gottfried */
 
 #include <stdio.h>
-
+/* main() */
 int main(int argc, char const *argv[])
 {
      float radio, area;
